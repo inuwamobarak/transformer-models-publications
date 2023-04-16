@@ -11,4 +11,15 @@ Note that this list will be updated regularly.
 
 *Article link:* https://www.analyticsvidhya.com/blog/2023/04/deep-learning-for-fashionistas-african-attire-detection/
 
-###
+##
+
+*Title:* Deep Learning in Banking: Colombian Peso Banknote Detection
+
+*Desc:*  Deep learning prototype for banking sector.
+
+*GitHub Repo:* https://github.com/inuwamobarak/Deep-learning-in-Banking
+
+
+*Article link:* https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/
+
+## 
